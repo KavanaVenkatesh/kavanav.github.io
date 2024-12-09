@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Applications, Virgnia Tech, Blacksburg, VA, Aug 2024 - May 2029 (expected)
+* M.S. in Data Science, Northeastern University, Boston, MA, Aug 2019 - Dec 2021
+* B.E. in Electrical and Electronics Engineering, SJCE, Mysuru, India,  Jun 2014 - Mar 2018
 
 Work experience
 ======
