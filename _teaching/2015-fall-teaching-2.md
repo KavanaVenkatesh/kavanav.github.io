@@ -1,5 +1,5 @@
 ---
-title: "DS 2000"
+title: "DS 2000 - Programming with Data"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020-fall-teaching-1
