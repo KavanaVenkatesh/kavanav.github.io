@@ -10,4 +10,4 @@ location: "Blacksburg, VA"
 
 This course introduces the foundations of modern artificial intelligence (AI) and key ideas and techniques underlying the design of intelligent computer systems. It comprises practice effective methods of reasoning about AI problems, which will generalize beyond the specific topics we study in class. Topics include (but are not limited to) search, game playing, logic, machine learning, deep learning, natural language processing, robotics and image processing. 
 
-<a href="https://courses.cs.vt.edu/~cs4804/" target="_blank">Course URL</a>
+Visit the course here: [https://courses.cs.vt.edu/~cs4804/](https://courses.cs.vt.edu/~cs4804/)
