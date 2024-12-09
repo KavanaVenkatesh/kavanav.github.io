@@ -3,7 +3,7 @@ title: "Context Canvas: Enhancing Text-to-Image Diffusion Models with Knowledge 
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We introduce a novel approach to enhance T2I diffusion models by incorporating Retrieval-Augmented Generation with a knowledge graph. We also propose an iterative RAG-context guided self-correction and a RAG-based image editing approach for high-fidelity generation of complex, domain-specific images.'
 date: 2024-12-10
 venue: 'arXiv preprint'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
