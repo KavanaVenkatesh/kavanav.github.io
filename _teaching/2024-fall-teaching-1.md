@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-1
 venue: "Virginia Tech"
-date: "Fall 2024"
+date: 2024-12-12
 location: "Blacksburg, VA"
 ---
 
