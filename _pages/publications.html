@@ -6,31 +6,56 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
+<!-- Main heading for Publications -->
+<h2>Publications</h2>
+<hr />
+
+<!-- Loop through all publications -->
+{% for post in site.publications reversed %}
+  <div class="publication-item">
+    <!-- Display Teaser Image -->
+    {% if post.teaser %}
+      <div class="teaser">
+        <img src="{{ post.teaser }}" alt="Teaser for {{ post.title }}" class="teaser-img">
+      </div>
+    {% endif %}
+
+    <!-- Display Title -->
+    <h3>
+      <a href="{{ post.permalink }}">{{ post.title }}</a>
+    </h3>
+
+    <!-- Display Authors with Links -->
+    {% if post.authors %}
+      <p>Authors: 
+        {% for author in post.authors %}
+          <a href="{{ author.website }}" target="_blank">{{ author.name }}</a>
+          {% if forloop.last == false %}, {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+
+    <!-- Display Venue (if applicable) -->
+    {% if post.venue %}
+      <p><strong>Venue:</strong> {{ post.venue }}</p>
+    {% endif %}
+
+    <!-- Links to PDF/Slides -->
+    <p>
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank">[PDF]</a>
       {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+      {% if post.slidesurl %}
+        <a href="{{ post.slidesurl }}" target="_blank">[Slides]</a>
+      {% endif %}
+    </p>
+  </div>
+  <hr />
+{% endfor %}
