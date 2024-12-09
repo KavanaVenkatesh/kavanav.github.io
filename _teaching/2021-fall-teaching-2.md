@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2020-fall-teaching-1
 venue: "Northeastern University"
-date: "Fall 2020, 2021"
+date: 2021-12-18
 location: "Boston, MA"
 ---
 
