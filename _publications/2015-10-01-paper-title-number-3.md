@@ -8,7 +8,7 @@ excerpt: """This paper introduces a real-time automated pre-fault detection and 
 date: 2018-12-15
 venue: 'ICEECCOT'
 paperurl: 'https://arxiv.org/abs/2409.09944'
-slidesurl: ''
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 citation: """@inproceedings{Kavana_2018,
    title={Fault Analysis and Predictive Maintenance of Induction Motor Using Machine Learning},
    url={http://dx.doi.org/10.1109/ICEECCOT43722.2018.9001543},
