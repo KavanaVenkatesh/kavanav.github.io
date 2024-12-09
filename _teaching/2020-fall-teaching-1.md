@@ -9,7 +9,7 @@ date: 2024-12-15
 location: "Blacksburg, VA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course introduces the foundations of modern artificial intelligence (AI) and key ideas and techniques underlying the design of intelligent computer systems. It focuses on concepts that are not only important in the space of AI but are also practically useful in modern applications. It comprises practice effective methods of reasoning about AI problems, which will generalize beyond the specific topics we study in class. Topics include (but are not limited to) search, game playing, logic, machine learning, deep learning, natural language processing, robotics and image processing. 
 
 Heading 1
 ======
