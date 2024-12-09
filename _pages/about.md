@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About"
+title: "Kavana Venkatesh"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## Kavana Venkatesh
 
 I am a PhD student at Virginia Tech. Previously, I earned my master's degee in Data Science from Northeastern University, Boston. My research focuses on Large Language Models and extending the evolving technology in NLP to Computer Vision tasks, especially Diffusion Models.
 
