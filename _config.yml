@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "Kavana_Picture.jpg"
   name             :  "CS PhD Student"
-  pronouns         : "She/Her"  
-  bio              : "GenAI Researcher | LLMs | Diffusion Models"
+  pronouns         : # "She/Her"  
+  bio              : "GenAI | LLMs | Diffusion Models"
   location         : "Blacksburg, VA"
   employer         : "Virginia Tech"
   uri              : "https://sanghani.cs.vt.edu/person/kavana-venkatesh/"
