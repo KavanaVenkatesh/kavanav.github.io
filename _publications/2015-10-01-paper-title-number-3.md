@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper introduces a real-time automated pre-fault detection and classification of 6 types of induction motor faults using Deep Neaural Networks. It also proposes a novel model free monitoring system wherein the motor itself acts like a sensor.'
 date: 2018-12-15
 venue: 'ICEECCOT'
-paperurl: 'https://arxiv.org/abs/2409.09944'
+paperurl: 'https://arxiv.org/pdf/2409.09944'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 citation: '@inproceedings{Kavana_2018,
    title={Fault Analysis and Predictive Maintenance of Induction Motor Using Machine Learning},
