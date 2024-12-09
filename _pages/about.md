@@ -11,9 +11,8 @@ I am a PhD student at Virginia Tech. Previously, I earned my master's degee in D
 
 My work aims to develop interpretable and efficient generative models to enable safe consumption of AI at scale across diverse domains. Specific areas of focus include:
 
-- **[Key Research Focus Area #1]:** [Brief description, e.g., leveraging large-scale machine learning models to improve human-AI interaction.]
-- **[Key Research Focus Area #2]:** [Brief description, e.g., enhancing efficiency in neural networks for resource-constrained environments.]
-- **[Key Research Focus Area #3]:** [Brief description, e.g., developing innovative approaches for multimodal learning and integration.]
-- **[Key Research Focus Area #4]:** [Brief description, e.g., creating explainable AI systems to foster trust and transparency in critical domains.]
-- **[Key Research Focus Area #5]:** [Brief description, e.g., exploring novel optimization techniques for large language models.]
-
+- **Interpretability of Large Language Models:** Understanding internal models and thought processes behind the reasoning of LLMs
+- **Agentic Framework and Tool Usage:** Researching efficient agentic ecosystems for collaborative reasoning and smart tool usage in LLMs
+- **Evaluation and Benchmarking for LLMs:** Developing innovative and dependable approaches to evaluate LLMs for complex scenarios
+- **Knowledge Distillation and Optimization of LLMs:** Exploring novel optimization techniques to develop smaller and efficient LLMs
+- **Applications of LLMs in vision:** Transferring the evolving techniques in NLP to vision, especially diffusion models for high-fidelity image generation 
