@@ -22,7 +22,7 @@ repository               : "KavanaVenkatesh/kavanavenkatesh.github.io"
 author:
   # Biographic information
   avatar           : "Kavana_Picture.jpg"
-  name             : "Kavana Venkatesh"
+  name             : # "Kavana Venkatesh"
   pronouns         : "She/Her"  
   bio              : "Generative AI Researcher"
   location         : "Blacksburg, VA"
